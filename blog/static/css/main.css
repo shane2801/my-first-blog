@@ -10,6 +10,7 @@
     }
     .content {
     margin-left: 40px;
+    text-align: justify;
     }
     body{
       font-family: 'Bookman Old Style';
@@ -39,8 +40,8 @@
     margin-right: 20px;
     }
     .post {
-      color: black;
-        font-size: 20px;
+    color: black;
+    font-size: 20px;
     margin-bottom: 70px;
     }
     .post h2 a, .post h2 a:visited {
